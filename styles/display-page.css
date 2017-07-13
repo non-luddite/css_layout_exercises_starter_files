@@ -2,6 +2,12 @@ main {
 	font-size: 0;
 	
 }
+.bigbox {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
+}
 
 .upper {
 	height: 200px;
